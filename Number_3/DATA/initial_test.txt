@@ -1,0 +1,1 @@
+../Alphabet_2/RESULTS/initial_test.txt
